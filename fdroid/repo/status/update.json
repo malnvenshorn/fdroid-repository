@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--create-metadata","--rename-apks"],"disabled":[],"endTimestamp":1632935384578,"failedBuilds":{},"noPackages":["de.malnvenshorn.octoprint"],"startTimestamp":1632931782000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--create-metadata","--rename-apks"],"disabled":[],"endTimestamp":1632937138969,"failedBuilds":{},"noPackages":["de.malnvenshorn.octoprint"],"startTimestamp":1632933536000,"subcommand":"update"}
