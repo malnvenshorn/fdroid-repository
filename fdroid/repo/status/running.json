@@ -1,9 +1,8 @@
 {
   "commandLine": [
-    "/usr/bin/fdroid update",
-    "--create-metadata",
-    "--rename-apks"
+    "/usr/bin/fdroid deploy",
+    "-v"
   ],
-  "startTimestamp": 1632931782000,
-  "subcommand": "update"
+  "startTimestamp": 1632932830000,
+  "subcommand": "deploy"
 }
